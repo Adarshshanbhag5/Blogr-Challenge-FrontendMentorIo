@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://adarshshanbhag5.github.io/Blogr-Challenge-FrontendMentorIo/)
+- Live Site URL: [https://adarshshanbhag5.github.io/Blogr-Challenge-FrontendMentorIo/](https://adarshshanbhag5.github.io/Blogr-Challenge-FrontendMentorIo/)
 
 ## My process
 
